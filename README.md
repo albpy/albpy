@@ -9,7 +9,7 @@
 
 
 
-- <img src="https://github.com/albpy/pythoncrux/blob/main/emotion_detection.gif" width="150" height="150" />
+"https://github.com/albpy/pythoncrux/"
 <!---
 albpy/albpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
