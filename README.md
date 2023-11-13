@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @albpy
+- 🐍 python programming and c coding 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently completing My Projects
 - 💞️ I’m looking to collaborate on AI Systems development
